@@ -1,0 +1,7 @@
+# SecretFind — optional dependencies
+# The tool runs on Python 3.8+ stdlib only.
+# Install these for enhanced output and git support.
+
+# No required dependencies — stdlib only!
+# Optional: install 'rich' for even prettier output (not used by default)
+# rich>=13.0.0
